@@ -1,0 +1,6 @@
+# META HOLLYWOOD Solidity Contracts
+Planet Hollywood, a world-renowned brand and trademark established in 1991, through Founder, Robert Earl, continues to develop exciting and new endeavours while enlisting the star power of Hollywood’s brightest celebrities. With world-class gaming, live entertainment, distinctive dining and out-of-this-world shopping, Planet Hollywood provides guests of every age an unrivalled and unforgettable entertainment experience.
+
+Meta Hollywood is building the largest online community for movie lovers and creators through NFTs. Owning the largest collection of Hollywood movie memorabilia, Meta Hollywood digitalizes real-world entertainment experiences and bridges them to the global online community by leveraging the cutting-edge NFT technology. With this new project, we add value to the existing Hollywood memorabilia, democratize the ecosystems, and empower movie lovers to directly interact with movie creators through a branded digital experience. Utilizing our native token, Meta Hollywood’s HWOOD Coin ($HWOOD), we aspire to realize our goal in transforming the amazing Hollywood experience into a next- generation ecosystem that benefits and reaches more supporters and creators.
+
+* [White Paper](https://github.com/metahollywood/smart-contract/raw/main/HWOOD_Whitepaper_20220328.pdf)
